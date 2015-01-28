@@ -29,7 +29,7 @@ To run the application, follow these steps.
   npm install -g live-server
   ```
 
-6. Now prepare to be amazed and run the following command like a pro and dazzle your eyes!
+6. Now prepare to be amazed,run the following command like a pro and dazzle your eyes!
 
  ```shell
  live-server
