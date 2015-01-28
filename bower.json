@@ -1,0 +1,30 @@
+{
+  "name": "Aurelia Navigation App",
+  "version": "0.0.1",
+  "authors": [
+    "Shuhel Ahmed <shuhel@ymail.com>"
+  ],
+  "description": "A navigational application expample with es5 bower and requirejs",
+  "main": "index.html",
+  "keywords": [
+    "aurelia",
+    "es5",
+    "requirejs",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "fontawesome": "~4.3.0",
+    "aurelia-bootstrapper": "~0.9.2",
+    "aurelia-http-client": "~0.4.3",
+    "requirejs": "~2.1.15"
+  }
+}
